@@ -1,28 +1,25 @@
 # Analysis of Drug-Resistant Tuberculosis in Nigeria
 
-This project investigates the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2008 to 2023 using R. The analysis includes descriptive statistics, data visualizations, correlation analysis, and regression modeling based on WHO Global TB surveillance data.
+This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2008 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
 
 ## Methods
-- Descriptive statistics to examine temporal trends
-- Line and scatter plots using `ggplot2` for data visualization
-- Correlation analysis to assess linear relationships between variables
-- Linear regression to explore predictors of treatment initiation
+- Descriptive statistics to examine temporal patterns
+- Line and scatter plots using `ggplot2` for visual representation
+- Correlation analysis to assess relationships between case estimates and treatment data
+- Linear regression to identify potential predictors of treatment coverage
 
-## Tools Used
-- R Markdown
-- ggplot2
-- dplyr
-- readr
-- flextable
-- officer
+## Tools & Packages
+- R Markdown (for reproducible reporting)
+- ggplot2, dplyr, readr (for data wrangling and visualization)
+- flextable, officer (for automated reporting)
 
 ## Related Publication
-This independent research has been **submitted to the European Journal of Epidemiology**  
-*(Journal Impact Factor: 7.7; 5-year IF: 9.8, 2023)*
+This research has been **independently conducted** and has been **submitted to the *European Journal of Epidemiology***  
+*(Journal Impact Factor: 7.7 | 5-Year Impact Factor: 9.8 — 2023)*
 
 ## Author
 **Uthman Al-Ameen Olalekan**  
 MPH (Epidemiology) | Public Health Researcher  
-Email: uthmanolanase01@gmail.com  
-GitHub: [github.com/uthmanolanase](https://github.com/uthmanolanase)  
-Nigeria
+📧 uthmanolanase01@gmail.com  
+🌐 [github.com/uthmanolanase](https://github.com/uthmanolanase)  
+📍 Nigeria
