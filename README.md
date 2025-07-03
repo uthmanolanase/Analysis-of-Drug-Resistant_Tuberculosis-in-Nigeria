@@ -15,7 +15,7 @@ This project presents an independent R-based analysis of the burden and trends o
 
 ## Related Publication
 This research has been **independently conducted** and has been **submitted to the *European Journal of Epidemiology***  
-*(Journal Impact Factor: 7.7 | 5-Year Impact Factor: 9.8 — 2023)*
+*(Journal Impact Factor: 5.9 | 5-Year Impact Factor: 9.8 — 2024)*
 
 ## Author
 **Uthman Al-Ameen Olalekan**  
