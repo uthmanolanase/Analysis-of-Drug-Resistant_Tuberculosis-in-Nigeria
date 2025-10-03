@@ -1,7 +1,7 @@
 
 # Analysis of Drug-Resistant Tuberculosis in Nigeria
 
-This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2008 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
+This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2015 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
 
 ## Methods
 - Descriptive statistics to examine temporal patterns
@@ -13,6 +13,9 @@ This project presents an independent R-based analysis of the burden and trends o
 - R Markdown (for reproducible reporting)
 - ggplot2, dplyr, readr (for data wrangling and visualization)
 - flextable, officer (for automated reporting)
+
+## 📂 Data Sources
+- [World Health Organization (WHO)](https://www.who.int/data)
 
 ## Related Publication
 This research has been **independently conducted** and has been **submitted to the *European Journal of Epidemiology***  
