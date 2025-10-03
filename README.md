@@ -4,7 +4,6 @@
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
 *MPH, University of Ibadan, Nigeria*  
 *PhD Applicant in Epidemiology*
----
 
 ## 📌 Overview
 
