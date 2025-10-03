@@ -41,11 +41,13 @@ To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nige
 This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
 
 ---
+
 ## 🔗 Related Project  
 
-📊 [Global Analysis of Drug-Resistant Tuberculosis (2010–2024)](https://github.com/uthmanolanase/DrugResistance-TB-Analysis)  
+📊 [Ecological and Longitudinal Analysis of HIV in Africa (2010–2024)](https://github.com/uthmanolanase/HIV-Continental-Study-Africa)  
 
-Together with this HIV analysis, the TB project showcases a broader **infectious disease epidemiology portfolio**, demonstrating reproducible workflows across two major global health challenges.  
+This TB analysis complements the HIV project, forming part of a unified **infectious disease research portfolio** in global epidemiology.  
+  
 
 ---
 ---🔗 License
