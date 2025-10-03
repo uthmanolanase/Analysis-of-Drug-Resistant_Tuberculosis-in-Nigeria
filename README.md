@@ -56,11 +56,8 @@ This project is shared for educational and research purposes. Please contact the
 
 **Uthman Al-Ameen Olalekan**  
 📧 uthmanolanase01@gmail.com  
-🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/HIV-Continental-Study-Africa)  
+🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/README.md)  
 🧾 CV available upon request
-🌐 [github.com/uthmanolanase](https://github.com/uthmanolanase)  
-📍 Nigeria
-
 
 ---
 
