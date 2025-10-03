@@ -26,13 +26,33 @@ This repository provides all code, datasets, and outputs to promote transparency
 ## 📂 Data Sources
 - [World Health Organization (WHO)](https://www.who.int/data)
 
-## Related Publication
-This research has been **independently conducted** and has been **submitted to the *European Journal of Epidemiology***  
-*(Journal Impact Factor: 5.9 | 5-Year Impact Factor: 9.8 — 2024)*
+  ## 🤝 Contributions
+---
+This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
 
-## Author
+---
+## 🔗 Related Project  
+
+📊 [Global Analysis of Drug-Resistant Tuberculosis (2010–2024)](https://github.com/uthmanolanase/DrugResistance-TB-Analysis)  
+
+Together with this HIV analysis, the TB project showcases a broader **infectious disease epidemiology portfolio**, demonstrating reproducible workflows across two major global health challenges.  
+
+---
+---🔗 License
+This project is shared for educational and research purposes. Please contact the author for permission before reuse.
+## 📫 Contact
+
 **Uthman Al-Ameen Olalekan**  
-MPH (Epidemiology) | Public Health Researcher  
 📧 uthmanolanase01@gmail.com  
+🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/HIV-Continental-Study-Africa)  
+🧾 CV available upon request
 🌐 [github.com/uthmanolanase](https://github.com/uthmanolanase)  
 📍 Nigeria
+
+
+---
+
+## 🔗 Citation
+
+> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _Discover Public Health_*.
+---
