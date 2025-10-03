@@ -8,6 +8,9 @@
 ## 📌 Overview
 
 This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2015 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
+This manuscript is currently under review at Discover Public Health (Springer Nature).
+
+This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
 ## Methods
 - Descriptive statistics to examine temporal patterns
