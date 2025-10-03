@@ -1,5 +1,12 @@
 
-# Analysis of Drug-Resistant Tuberculosis in Nigeria
+# 📊 Analysis of Drug-Resistant Tuberculosis in Nigeria
+
+### 🧠 Author: Uthman Al-Ameen Olalekan  
+*MPH, University of Ibadan, Nigeria*  
+*PhD Applicant in Epidemiology*
+---
+
+## 📌 Overview
 
 This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2015 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
 
