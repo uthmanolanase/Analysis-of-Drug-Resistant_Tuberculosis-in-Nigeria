@@ -13,6 +13,15 @@ This manuscript is currently under review at Discover Public Health (Springer Na
 
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
+## 🧪 Objective  
+
+To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nigeria (2015–2023)**, with particular focus on:  
+
+- 📊 Incidence of Drug-Resistant TB  
+- ✅ Treatment Success Rates  
+- 🔄 Resistance Trends across MDR-TB and RR-TB cases  
+
+
 ## Methods
 - Descriptive statistics to examine temporal patterns
 - Line and scatter plots using `ggplot2` for visual representation
