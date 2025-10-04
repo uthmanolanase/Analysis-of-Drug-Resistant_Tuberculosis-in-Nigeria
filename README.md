@@ -56,7 +56,7 @@ This project is shared for educational and research purposes. Please contact the
 
 **Uthman Al-Ameen Olalekan**  
 📧 uthmanolanase01@gmail.com  
-🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/README.md)  
+🔗 [View Full Project on GitHub](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Drug_resistance_Tb_%20Analysis_Code_and_Output.pdf)  
 🧾 CV available upon request
 
 ---
