@@ -9,7 +9,7 @@
 ## 📌 Overview
 
 This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2015 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
-This manuscript is currently under review at Discover Public Health (Springer Nature).
+This manuscript is currently under review at BMC Infectious Diseases (Springer Nature).
 
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
@@ -63,5 +63,5 @@ This project is shared for educational and research purposes. Please contact the
 
 ## 🔗 Citation
 
-> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _Discover Public Health_*.
+> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _BMC Infectious Diseases_*.
 ---
