@@ -39,7 +39,7 @@ To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nige
 ## 📈 Sample Visualizations
 
 <!-- Replace with your uploaded images -->
-![HIV Incidence Trend](outputs/maps/HIV_Incidence_Africa_2024.png)  
+![HIV Incidence Trend](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Line%20plot%20of%20TB%20Multi%20drug%20resistance%20cases%20over%20years.jpeg)  
 ![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/ART_Coverage_Africa_2024.png)  
   ## 🤝 Contributions
 ---
