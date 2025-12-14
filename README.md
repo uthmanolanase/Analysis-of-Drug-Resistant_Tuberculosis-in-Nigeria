@@ -36,6 +36,11 @@ To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nige
 ## 📂 Data Sources
 - [World Health Organization (WHO)](https://www.who.int/data)
 
+## 📈 Sample Visualizations
+
+<!-- Replace with your uploaded images -->
+![HIV Incidence Trend](outputs/maps/HIV_Incidence_Africa_2024.png)  
+![ART Coverage Over Time](https://github.com/uthmanolanase/HIV-Continental-Study-Africa/blob/main/outputs/maps/ART_Coverage_Africa_2024.png)  
   ## 🤝 Contributions
 ---
 This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
