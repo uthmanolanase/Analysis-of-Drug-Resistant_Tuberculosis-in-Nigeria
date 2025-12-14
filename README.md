@@ -16,7 +16,7 @@ This manuscript is currently under review at BMC Infectious Diseases (Springer N
 > 🔗 DOI: 
 
 [https://doi.org/10.21203/rs.3.rs-7842271/v1](https://doi.org/10.21203/rs.3.rs-7842271/v1)  
-> 📜 *This is a preprint and has not been peer reviewed.*  
+> 📜 *This is a preprint and is currently under peer review.*  
 > Licensed under a **CC BY 4.0 License**.
 
 > This repository provides all code, datasets, and outputs to promote transparency and reproducibility
@@ -75,5 +75,5 @@ This project is shared for educational and research purposes. Please contact the
 
 ## 🔗 Citation
 
-> Uthman, A. (2025). _Continental Analysis of HIV Incidence, ART Coverage, and AIDS-related Mortality in Africa, 2010–2024_. Manuscript submitted to * _BMC Infectious Diseases_*.
+> Uthman, A. (2025). _Assessment of the Tuberculosis Care Cascade in Nigeria: A 9-Year Analysis of MDR/RR- TB Detection and Treatment (2015–2023)_. Manuscript submitted to * _BMC Infectious Diseases_*.
 ---
