@@ -1,5 +1,4 @@
 
-
 # 📊 Analysis of Drug-Resistant Tuberculosis in Nigeria
 
 ### 🧠 Author: Uthman Al-Ameen Olalekan  
@@ -13,6 +12,9 @@ This manuscript is currently under review at BMC Infectious Diseases (Springer N
 
 This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 
+[https://doi.org/10.21203/rs.3.rs-7842271/v1](https://doi.org/10.21203/rs.3.rs-7842271/v1)  
+> 📜 *This is a preprint and has not been peer reviewed.*  
+> Licensed under a **CC BY 4.0 License**.
 ## 🧪 Objective  
 
 To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nigeria (2015–2023)**, with particular focus on:  
