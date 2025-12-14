@@ -39,8 +39,8 @@ To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nige
 ## 📈 Sample Visualizations
 
 <!-- Replace with your uploaded images -->
-![HIV Incidence Trend](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Line%20plot%20of%20TB%20Multi%20drug%20resistance%20cases%20over%20years.jpeg)  
-![ART Coverage Over Time](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Line%20plot%20of%20relationship%20between%20confirmed%20cases%20and%20treated%20cases.jpeg)  
+![Line plot of TB Multi drug resistance cases over years](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Line%20plot%20of%20TB%20Multi%20drug%20resistance%20cases%20over%20years.jpeg)  
+![Line plot of relationship between confirmed cases and treated cases](https://github.com/uthmanolanase/Analysis-of-Drug-Resistant_Tuberculosis-in-Nigeria/blob/main/Line%20plot%20of%20relationship%20between%20confirmed%20cases%20and%20treated%20cases.jpeg)  
   ## 🤝 Contributions
 ---
 This project was independently designed, analyzed, and documented by Uthman Olalekan Al-Ameen as part of a self-driven effort to promote data-driven health research in Africa.
