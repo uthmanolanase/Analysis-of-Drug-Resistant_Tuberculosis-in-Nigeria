@@ -10,11 +10,16 @@
 This project presents an independent R-based analysis of the burden and trends of multidrug/rifampicin-resistant tuberculosis (MDR/RR-TB) in Nigeria from 2015 to 2023. Using publicly available WHO Global TB surveillance data, the analysis includes descriptive statistics, data visualization, correlation analysis, and linear regression to explore patterns and predictors of treatment initiation.
 This manuscript is currently under review at BMC Infectious Diseases (Springer Nature).
 
-This repository provides all code, datasets, and outputs to promote transparency and reproducibility
+> 📄 **Preprint Notice:**  
+> This study was previously shared as a preprint on *Research Square*:  
+> **Uthman Olalekan Al-Ameen (2025).** *Assessment of the Tuberculosis Care Cascade in Nigeria: A 9-Year Analysis of MDR/RR- TB Detection and Treatment (2015–2023).*  
+> 🔗 DOI: 
 
 [https://doi.org/10.21203/rs.3.rs-7842271/v1](https://doi.org/10.21203/rs.3.rs-7842271/v1)  
 > 📜 *This is a preprint and has not been peer reviewed.*  
 > Licensed under a **CC BY 4.0 License**.
+
+> This repository provides all code, datasets, and outputs to promote transparency and reproducibility
 ## 🧪 Objective  
 
 To examine the patterns and trends of **drug-resistant tuberculosis (TB) in Nigeria (2015–2023)**, with particular focus on:  
